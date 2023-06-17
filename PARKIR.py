@@ -29,7 +29,7 @@ if pilih == 1:
         else:
             occupied.append(lokasi)
             break
-    print("Baik ini tiketnya......")
+    print("\n > > > Baik ini tiketnya......")
 
 elif pilih == 2:
     jamMasuk = int(input("Masukan Jam awal masuk : "))
