@@ -34,8 +34,8 @@ if pilih == 1:
 elif pilih == 2:
     jamMasuk = int(input("Masukan Jam awal masuk : "))
     jamKeluar = int(input("Jam Keluar : "))
-    lamanya = jamMasuk - jamKeluar
-    if lamanya <= 0:
+    lamanya = jamKeluar - jamMasuk
+    if lamanya <= 1:
         print("gratis")
     elif lamanya > 3:
         print(" Rp. 2000")
