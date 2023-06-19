@@ -50,4 +50,4 @@ else:
     print("Baik...")
 
 
-#ini ketikan dapin aku masukkin ke developtment
+#contoh baris program yang aku kerjain skrg 
