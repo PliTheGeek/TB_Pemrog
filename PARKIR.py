@@ -48,3 +48,6 @@ elif pilih == 2:
 
 else:
     print("Baik...")
+
+
+#ini ketikan dapin
