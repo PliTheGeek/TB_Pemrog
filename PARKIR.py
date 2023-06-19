@@ -1,4 +1,7 @@
 def sistem_parkiran(pilih):
+
+
+    #ini titipan Comment
     
     occupied = [ 23, 42, 1, 50, 4, 2, 6,20 ]
     
